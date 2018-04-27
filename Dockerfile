@@ -5,6 +5,7 @@ RUN pip install python_docx \
     && pip install numpy \
     && pip install scipy \
     && pip install sklearn \
-    && pip install gensim 
+    && pip install gensim \
+    && pip install apscheduler
 
 
