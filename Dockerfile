@@ -1,5 +1,5 @@
 FROM suchenglong/ubuntu16.04
-RUN pip install docx \
+RUN pip install python_docx \
     && pip install web.py \
     && pip install jieba \
     && pip install numpy \
