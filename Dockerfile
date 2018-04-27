@@ -4,6 +4,7 @@ RUN pip install python_docx \
     && pip install jieba \
     && pip install numpy \
     && pip install scipy \
-    && pip install sklearn
+    && pip install sklearn \
+    && pip install gensim 
 
 
